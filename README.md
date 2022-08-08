@@ -7,5 +7,6 @@ AL for Testing Purposes
 3.) StCard.al -> Cases (if between value x and y) \
 4.) TableIntro.al + PageIntro.al -> Create a new table (TableIntro.al, Employeee), and a page to insert data to the table (PageIntro.al) \
 5.) Course.al + CourseList.al + CoursePage.al -> Create a table that contains new courses (course name, description, teacher, difficulty etc.)\
-6.) ArmstrongCard.Page.al-> Calculate Armstrong numbers from 1 to 10000; Format() and Evaluate() \
-7.) ... \
+6.) ArmstrongCard.Page.al -> Calculate Armstrong numbers from 1 to 10000; Format() and Evaluate() \
+7.) ErrorHandling.al -> Examples for Error Handling \
+8.)...
