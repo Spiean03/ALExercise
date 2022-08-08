@@ -9,5 +9,5 @@ AL for Testing Purposes
 5.) Course.al + CourseList.al + CoursePage.al -> Create a table that contains new courses (course name, description, teacher, difficulty etc.)\
 6.) ArmstrongCard.Page.al -> Calculate Armstrong numbers from 1 to 10000; Format() and Evaluate() \
 7.) ErrorHandling.al -> Examples for Error Handling \
-8.) Validations.CodeUnit.al -> Subscribers \
+8.) Validations.CodeUnit.al -> Subscribers, check for plus-signs \
 9.) ...\
