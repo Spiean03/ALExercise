@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Andreas Spielhofer",
+            "name": "A.S.",
             "request": "launch",
             "type": "al",
             "environmentType": "OnPrem",
