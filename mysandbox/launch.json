@@ -9,7 +9,7 @@
             "server": "http://mysandbox",
             "serverInstance": "BC",
             "authentication": "Windows",
-            "startupObjectId": 50146,
+            "startupObjectId": 50142,
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,
